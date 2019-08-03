@@ -1,0 +1,2 @@
+# toughmaze
+Generate tough mazes
