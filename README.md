@@ -1,4 +1,4 @@
 # toughmaze
 Generate tough mazes
 
-![Maze example](./examples/example.svg)
+![Maze example](./example/example.svg)
